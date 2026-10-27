@@ -14,7 +14,7 @@ Runpod offers Pods for dedicated GPU instances, Serverless for API inference, an
 
 Start from the workload: how much memory it needs, whether it is an interactive session or a queued job, and how you will preserve the result. Choosing a machine that fits the model is more useful than buying an impressive GPU name without a runtime estimate.
 
-### 👉 [Explore Runpod GPUs and current availability](https://go.272738.xyz/runpod?src=gh_coupon_runpod_cta1)
+### 👉 [Explore Runpod GPUs and current availability](https://gpu.mybskm.top/go/runpod)
 
 ---
 
@@ -31,7 +31,7 @@ Official page updated October 8, 2026; checked October 26. These are listing sna
 
 Source: [Runpod official pricing](https://www.runpod.io/pricing). USD unless stated otherwise. Examples below are calculations, not customer results.
 
-### 👉 [Compare the live Runpod deployment quote](https://go.272738.xyz/runpod?src=gh_coupon_runpod_cta2)
+### 👉 [Compare the live Runpod deployment quote](https://gpu.mybskm.top/go/runpod)
 
 ---
 
@@ -45,7 +45,7 @@ Source: [Runpod official pricing](https://www.runpod.io/pricing). USD unless sta
 
 For intermittent demand, compare a dedicated instance with the actual Serverless quote and your expected request pattern. Do not convert one product’s sticker price into another product’s bill without checking how it is charged.
 
-### 👉 [Find a Runpod setup that fits your workload and hours](https://go.272738.xyz/runpod?src=gh_coupon_runpod_cta3)
+### 👉 [Find a Runpod setup that fits your workload and hours](https://gpu.mybskm.top/go/runpod)
 
 ---
 
@@ -69,4 +69,4 @@ No paid GPU benchmark was run for this guide. The tables use official listed pri
 
 ---
 
-### 👉 [Choose your GPU budget — view Runpod options](https://go.272738.xyz/runpod?src=gh_coupon_runpod_cta4)
+### 👉 [Choose your GPU budget — view Runpod options](https://gpu.mybskm.top/go/runpod)
